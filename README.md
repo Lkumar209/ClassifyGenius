@@ -2,6 +2,7 @@
 
 ![NoteJet](https://user-images.githubusercontent.com/112336121/233880030-f6a51e70-4e6d-4c42-9001-9dfc9a02c544.png)
 
+Check it out at - https://youtu.be/xRaaUGnNSAo
 
 ClassifyGenius is an interactive machine learning application built using the open-source Streamlit framework. It is a simple web application that enables users to explore different datasets and classifiers. The application allows the user to select from three popular machine learning algorithms: K-nearest neighbors algorithm (KNN), support vector machines (SVM), and random forest. It also allows the user to adjust the parameters of the selected classifier with a scrollbar. As the user changes the parameter, the accuracy changes, and the application updates the overview of the dataset, classifier, and accuracy, along with a plot of the dataset.
 
